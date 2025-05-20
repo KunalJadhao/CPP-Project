@@ -37,7 +37,7 @@ public:
 
         cout << "Enter Work ID: ";
         cin >> id;
-        cin.ignore();  // To ignore leftover newline character from previous input
+        cin.ignore();  
 
         cout << "Enter Title: ";
         getline(cin, title);
