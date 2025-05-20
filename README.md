@@ -12,4 +12,4 @@ This marks the foundational step of our journey. In this phase, we are setting u
 - Lays the groundwork for further development phases
 - Acts as a reference point for future iterations of the project
 
-## 🚀 Getting Started
+## 🚀 Getting Started with PurpleLance
